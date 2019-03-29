@@ -1,0 +1,27 @@
+{
+  "name": "nodejstutorial",
+  "version": "1.0.0",
+  "description": "Node.js Tutorial",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TammyDing <840907806@qq.com> (http://front.dtt306.com)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tammyDing/nodejstutorial.git"
+  },
+  "keywords": [
+    "nodejs",
+    "tutorial"
+  ],
+  "bugs": {
+    "url": "https://github.com/tammyDing/nodejstutorial/issues"
+  },
+  "homepage": "https://github.com/tammyDing/nodejstutorial#readme"
+}
